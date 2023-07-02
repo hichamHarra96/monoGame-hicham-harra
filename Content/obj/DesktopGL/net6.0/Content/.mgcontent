@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hicham/source/repos/Starship/Content/ciel-nocturne.png</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/flyingSaucer-petit.png</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/fond.png</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/galleryFont.spritefont</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/gameSong.mp3</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/howToPlay.png</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/tir.png</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/tire.mp3</File>
+    <File>C:/Users/hicham/source/repos/Starship/Content/vaisseau-ballon-petit.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
